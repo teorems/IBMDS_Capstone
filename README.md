@@ -1,1 +1,3 @@
-"# IBMDS_Capstone" 
+# IBMDS_Capstone
+
+Clustering Toronto Neighborhoods.
